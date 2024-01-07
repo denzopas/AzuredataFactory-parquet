@@ -1,0 +1,9 @@
+{
+	"name": "databag-datafactory88",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89b7f944-b5d4-42f0-a33e-e32c50a41af3",
+		"tenantId": "859e5f89-1d74-47c7-b4d4-d69cfe86e020"
+	}
+}
